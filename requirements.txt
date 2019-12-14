@@ -19,7 +19,7 @@ multidict==4.5.2
 mutagen==1.42.0
 pafy==0.5.4
 pathlib==1.0.1
-Pillow==6.1.0
+Pillow>=6.2.0
 Pybooru==4.1.0
 pycparser==2.19
 pylint==2.3.1
