@@ -29,7 +29,7 @@ userStats = UserStatTracker(users.getUsers(), auditLines)
 gelbooruLimiter = UserLimiter()
 ChannelFilter = Filter()
 ClientConnector = ClientConnections()
-ROLE = "Пионер"
+ROLE = "Space🔮"
 try:
     apiTokenFile = open('gelApiKey.config','r')
     apiToken = apiTokenFile.readline()
