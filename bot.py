@@ -393,4 +393,4 @@ async def volume(ctx, volume: int):
     ctx.voice_client.source.volume = volume / 100
     await ctx.send(f"Громкость выставлена на {volume}%")
 
-client.run("NjA1MDM1NDE2MjAyMjQ4MjE2.XUWOeQ.gdMeIG2IpPSrE-pqI0cEjPglvO0")
+client.run("NjA1MDM1NDE2MjAyMjQ4MjE2.XopJWg.F_VEEUtf31LPl2Eo9yTqo8heZbk")
